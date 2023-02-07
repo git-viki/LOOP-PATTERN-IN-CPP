@@ -1,5 +1,5 @@
 /*
-Left Hollow Triangle Pattern In C++
+Half Hollow Pyramid Pattern In C++
 
 *
 * *
