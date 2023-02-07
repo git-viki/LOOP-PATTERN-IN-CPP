@@ -1,5 +1,5 @@
 /*
-Right Triangle Pattern In C++
+Right Half Pyramid Pattern In C++
 
 *
 * *
