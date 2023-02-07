@@ -1,5 +1,5 @@
 /*
-Half Hollow Pyramid Pattern In C++
+ Right Half Hollow Pyramid Pattern In C++
 
 *
 * *
